@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExcelLinqReader</id>
+    <version>$version$</version>
+    <title>Excel LINQ Reader</title>
+    <authors>Grant Taylor</authors>
+    <owners>Grant Taylor</owners>
+    <projectUrl>http://github.com/Givens24/ExcelReader</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for quickly reading excel spreadsheets with LINQ.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>ExcelReader Excel C# LINQ</tags>
+  </metadata>
+</package>
